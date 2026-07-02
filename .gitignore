@@ -99,3 +99,7 @@ package-lock.json
 
 # Planning (local scratchpad)
 plan/
+
+# Personal working files (job-search scratch data, not part of the system)
+/Job Links*.csv
+data/pipeline-filtered-out-*.md
